@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 name: Olga Carvalho
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
