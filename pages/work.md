@@ -1,6 +1,6 @@
 ---
 layout: default
 title: About | Olga Carvalho
-permalink: /about/index.html
+permalink: /work/index.html
 ---
 # Work page
