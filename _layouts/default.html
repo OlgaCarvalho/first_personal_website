@@ -1,28 +1,22 @@
 <!DOCTYPE html>
 	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
+
+		{%- include head.html -%}
+
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/posts">Posts</a></li>
-				<li><a href="/work">Work</a></li>
-	    		</ul>
-			</nav>
+
+			{%- include nav_bar.html -%}
+			{%- include top_ribbon.html -%}
+
+
 			<div class="container">
-			
+
 			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:olgasofiacarvalho@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/OlgaCarvalho">github.com/olgacarvalho</a></li>
-				</ul>
-			</footer>
+
+			</div>
+
+			{%- include footer.html -%}
+
+
 		</body>
 	</html>

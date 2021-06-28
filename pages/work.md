@@ -1,6 +1,5 @@
 ---
 layout: default
-title: About | Olga Carvalho
+title: Work | Olga Carvalho
 permalink: /work/index.html
 ---
-# Work page

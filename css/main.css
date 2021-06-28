@@ -1,3 +1,7 @@
+/**
+ * Basic elements
+ */
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -30,14 +34,35 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 1em;
+    text-align: right;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+/**
+ * Posts
+ */
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+}
+
+
+/**
+ * My classes
+ */
+.ribbon {
+  height: 200px;
+  background-color: #001F3E;
+  vertical-align: middle;
+  color: white
+}
+
+.nav_bar {
+  border-bottom: 1px solid #d5d5d5;
+  text-align: right;
+  font-size: 1.5em;
 }

@@ -1,4 +1,9 @@
-theme: jekyll-theme-cayman
 name: Olga Carvalho
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
+
+# my contacts
+author: Olga Carvalho
+email: olgasofiacarvalho@gmail.com
+linkedin: https://www.linkedin.com/in/olgasofiacarvalho/
+github: https://github.com/OlgaCarvalho
