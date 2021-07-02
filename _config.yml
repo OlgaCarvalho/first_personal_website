@@ -1,6 +1,6 @@
 name: Olga Carvalho
 markdown: kramdown
-permalink: /posts/:year/:month/:day/:title
+permalink: /posts/:year/:month/:day/:title.html
 
 # my contacts
 author: Olga Carvalho
