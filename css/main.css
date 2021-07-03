@@ -24,8 +24,34 @@ a:hover {
     text-decoration: underline;
 }
 h1, h2, h3, h4, h5, p, li{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: "Trebuchet MS", "DejuVu Sans", "Bitstream Vera Sans", sans-serif;
+  line-height: 1.2;
 }
+
+
+h2, h3, h4, h5{
+  line-height: 1.2;
+}
+
+p, li{
+  line-height: 1.7;
+  font-size: 1.25rem;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+h2{
+  font-size: 2.44rem;
+  margin-top: 60px;
+}
+
+h4{
+  font-size: 1.5rem;
+  margin-top: 30px;
+}
+
 
 
 footer {
