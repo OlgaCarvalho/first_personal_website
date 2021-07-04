@@ -30,6 +30,14 @@ You can see my professional experience on <a href="{{ site.linkedin }}">LinkedIn
 
 ## 💻 Lifelong Learner
 
+#### 📅 Programs
+* Mentorship program at Portuguese Women in Tech
+
+#### 🚩 Capture-The-Flag exercices (CTFs)
+* Hackthisite
+* Bandit, by *overthewire*
+* Natas, by *overthewire*
+
 #### 🎫 Online Courses
 * Java, by *Codeacademy*
 * Python3, by *Codeacademy*
@@ -44,16 +52,9 @@ You can see my professional experience on <a href="{{ site.linkedin }}">LinkedIn
 * C-DAYS 2020 – Abraçar o Futuro, by *CNCS*
 * C-DAYS 2021 – Naturalizar Competências, by *CNCS*
 
-#### 🚩 Capture-The-Flag exercices (CTFs)
-* Hackthisite
-* Bandit, by *overthewire*
-* Natas, by *overthewire*
-
 #### 📜 Certifications
 * ISO/IEC 27001 Information Security Associate, by *Skillfront*
 
-#### 📅 Programs
-* Mentorship program at Portuguese Women in Tech
 
 
 ## 📐 Engineer
