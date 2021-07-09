@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setup your personal website on GitHub Pages"
+title: "Setup Your Personal Website on GitHub Pages"
 date: 2021-07-06
 ---
 In this post I will show you how I created and hosted a personal website on GitHub Pages using Jekyll.
@@ -349,15 +349,16 @@ Right know we have three pages, **Home**, **Blog** and **Work**.
 
 You can personalize those pages by editing `index.md`, `blog.html` and `work.md` files, respectively.
 Check out how to use [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to create your content.
+You can also create new pages.
 
-Finally, you can create as many posts you want in your `_posts` directory as far as you use Jekyll's convention for the names of the files. As we did in [Step 15.](#step-15-create-your-first-post)
+Finally, you can create as many posts you want in your `_posts` directory as long as you use Jekyll's convention for the names of the files. As we did in [Step 15.](#step-15-create-your-first-post)
 
 
 ## Next Steps
 This guide got me started with my own personal website and hopefully has given you the confidence to do the same.
 At this point you can go in two different directions:
 
-1. If you would prefer not to worry about the frontend aspects of your website, use a theme!
+1. If you would prefer not to worry about the frontend aspect of your website, use a theme!
 	There are several [themes](https://jekyllthemes.io/) (paid or free) available.
 	Checkout Jekyll [Minima](https://github.com/jekyll/minima) free theme.
 	What you've done during this guide should be enough to understand how to navigate and add your content using a theme.

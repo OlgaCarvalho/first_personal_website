@@ -9,7 +9,6 @@ permalink: /about/index.html
 My name is <a href="{{ site.linkedin }}">Olga</a> and I am a **Cyber Security Engineer** from Portugal.
 
 I had my first contact with cyber security during a MSc course called *Criptography and Communications Security*.
-
 This was when the fireworks 🎇 went off and I realized this was it, this was my purpose!
 
 Wanting to learn more I focused my dissertation in the field: I developed a solution that aids system defenders analyze the impact of cyber-threats, directly onto business-processes.
