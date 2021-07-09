@@ -55,15 +55,48 @@ h3{
 h4{
   font-size: 1.5rem;
   margin-top: 30px;
+  margin-block-end: 15px;
 }
-
-
 
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 1em;
     text-align: right;
 
+}
+
+/**
+ * New elements
+ */
+.highlighter-rouge .highlight pre.highlight {
+    overflow: auto;
+}
+
+p > code,
+h1 > code,
+h2 > code,
+h3 > code,
+h4 > code,
+li > code {
+  background-color: #f3f4f4;
+  padding: 0 2px 0 2px;
+  color: rgb(51, 51, 51);
+}
+
+blockquote {
+  border-left: 4px solid #dfe2e5;
+  padding: 0 15px;
+  color: #777777;
+}
+blockquote:before {
+  color: #ccc;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
 
 /**
@@ -77,6 +110,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 
 
 /**

@@ -1,6 +1,8 @@
 name: Olga Carvalho
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title.html
+kramdown:
+  syntax_highlighter: rouge
 
 # my contacts
 author: Olga Carvalho
