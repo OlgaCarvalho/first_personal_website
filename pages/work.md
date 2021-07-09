@@ -33,7 +33,7 @@ You can see my professional experience on <a href="{{ site.linkedin }}">LinkedIn
 #### 📅 Programs
 * Mentorship program at Portuguese Women in Tech
 
-#### 🚩 Capture-The-Flag exercices (CTFs)
+#### 🚩 Capture-The-Flag exercises (CTFs)
 * Hackthisite
 * Bandit, by *overthewire*
 * Natas, by *overthewire*
