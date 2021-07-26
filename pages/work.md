@@ -4,14 +4,14 @@ title: Work | Olga Carvalho
 permalink: /work/index.html
 ---
 
-Here you can see my ongoing cyber security journey as a:
+Here you can see my ongoing journey in security as a:
 
 * [Professional](#-professional)
 * [Lifelong learner](#-lifelong-learner)
 * [Engineer](#-engineer)
 * [Student](#-student)
 
-You can see my professional experience on <a href="{{ site.linkedin }}">LinkedIn</a>.  
+You can see my complete professional experience on <a href="{{ site.linkedin }}">LinkedIn</a>.  
 
 ## 💼 Professional
 

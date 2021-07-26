@@ -3,7 +3,7 @@ layout: post
 title: "Setup Your Personal Website on GitHub Pages"
 date: 2021-07-06
 ---
-In this post I will show you how I created and hosted a personal website on GitHub Pages using Jekyll.
+In this post I will show you how I created this personal website on GitHub Pages using Jekyll.
 
 ## What is GitHub Pages and Jekyll?
 
@@ -313,14 +313,14 @@ Let's test our **Blog** page!
 Create a folder called `_posts` on the root of your project.
 The name of the folder is mandatory so Jekyll knows where to find your posts.
 
-Inside `_posts` create your first post with Jekyll's strict convention of `YYYY-MM-DD-title-of-my-post.md`.
+Inside `_posts` create your first post with Jekyll's strict convention of `YYYY-MM-DD-title-of-your-post.md`.
 For instance `2021-07-06-my-first-post.md`.
 
 Add to your post:
 ```markdown
 ---
 layout: post
-title: "Today I launch my github page"
+title: "Today I launch my GitHub page"
 date: 2021-07-06
 ---
 
@@ -341,7 +341,9 @@ We can also use bullet points:
 	* And some other things.
 ```
 
-Note that here we are using the `post` layout.
+*Note that here we are using the `post` layout.*
+
+Finally, after committing the new post navigate to your **Blog** page and click on your post.
 
 ## Wrapping up
 #### Step 16. Add your own content
@@ -364,7 +366,8 @@ At this point you can go in two different directions:
 	What you've done during this guide should be enough to understand how to navigate and add your content using a theme.
 
 2. You would like to learn more about frontend and fully customize your website.
-* Start by installing Jekyll and an IDE in your computer. I use [Atom](https://atom.io/) that has great plugins for Jekyll and GitHub/Git.
-This way you can change and try out things before committing them to your website.
+* Start by installing Jekyll and an IDE on your computer. I use [Atom](https://atom.io/) that has great plugins for Jekyll and GitHub/Git.
+This way you can change and try out things locally before committing them to your website.
 * Create `_includes` to organize your markup snippets. Then you can reuse them by injected them into your `_layouts` pages.
 * Add Google Analytics to your website so you can see stats on the visitors to your website. Here's an [example](https://desiredpersona.com/google-analytics-jekyll/).
+* Create a [custom 404 page](https://jekyllrb.com/tutorials/custom-404-page/).
