@@ -3,11 +3,11 @@ layout: post
 title: "Plan a Project Hand-over"
 date: 2021-07-26
 ---
-When you leave a project you have to make sure that is left in prepared hands.
+When you leave a project you have to make sure that it is left in prepared hands.
 
 It seems simple enough: just showcase the project and its goals. However, I am sure you ran into issues and possible headaches along the way that the next team will surely also run into.
 
-When done wrong, deadlines may be missed (which hinders business relationships), you add stress to the team's workload, and you will be pulled back to a project you left (maybe months ago).
+A project hand-over when done wrong, deadlines may be missed (which hinders business relationships), you add stress to the team's workload, and you will be pulled back to a project you left (maybe a long time ago).
 When done right, the receiving team should be able to run the project smoothly after you leave.
 
 In this post you will find suggestions for organizing a project hand-over.
@@ -30,10 +30,11 @@ Here I refer to a project hand-over with a strong software development component
 
 
 ## 1. Introduction
+This is the first session and the quickest. The goal is to introduce the project and some key concepts begore going into detail in the next session.
 
 ***Who are the stakeholders in the project?*** Here include everyone that is a part of the project: initial contributors, clients, project manager and the group who will receive the project.
 
-***What is the motivation for the project?*** What was the problem/challenge this project was proposed to solve? Having a clear view of the project's value is important to keep everyone aligned with the same goals.
+***What is the motivation for this project?*** What was the problem/challenge this project was proposed to solve? Having a clear view of the project's value is important to keep everyone aligned with the same goals.
 
 ***What is the solution?*** What is the solution based on? Introduce and explain technical concepts and how they are used. End with a black-box drive trough: present what are the inputs and the output (results) of the proposed solution.
 
@@ -44,8 +45,9 @@ Here I refer to a project hand-over with a strong software development component
 
 
 ## 2. Implementation
+Whereas in the introduction session we presented a high-level overview of the project's architecture (from a black-box and grey-box perspective), now we should go into a technical detail.
 
-***How is the project implemented?*** Whereas in the introduction section we presented a high-level overview of the project's architecture (from a black-box and grey-box perspective), now we should go into detail on how the components work and how they interact with each other (white-box perspective).
+***How is the project implemented?*** Elaborate on how the components work and how they interact with each other (white-box perspective).
 
 ***What is the solution's development environment?*** Detail every technology used for the development of the solution: code languages, frameworks, technologies and applications, and their versions. If needed, do a walkthrough of the project's file structure.
 
@@ -58,6 +60,7 @@ Here I refer to a project hand-over with a strong software development component
 
 
 ## 3. Operation & Deliverables
+This session usually will be the longest since we are laying out the specifics on how to operate and continue running the project (and where a lot of questions will arise).
 
 ***What does a day look like operating this project?*** Enumerate day-to-day tasks you perform, meetings schedules, etc.
 
@@ -71,7 +74,7 @@ Here I refer to a project hand-over with a strong software development component
 
 ## 4. Q&A
 
-During the previous sessions you surely were asked several questions. Try to answer the ones you have quick replies or if it goes with the flow of the presentation. For big questions, record them and use this time-slot for those answers. It also gives you time to better prepare demonstrations if needed.
+During the previous sessions you surely were asked a few questions. Try to answer the ones you have quick replies or if it goes with the flow of the presentation. For big questions, take a note of them and use this time-slot for those answers. It also gives you time to better prepare demonstrations if needed.
 
 Finally, leave enough time for final questions.
 

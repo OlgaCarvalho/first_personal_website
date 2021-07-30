@@ -8,12 +8,12 @@ permalink: /about/index.html
 
 My name is <a href="{{ site.linkedin }}">Olga</a> and I am a **Cyber Security Engineer** from Portugal.
 
-I had my first contact with cyber security during a MSc course called *Criptography and Communications Security*.
-This was when the fireworks 🎇 went off and I realized this was it, this was what I wanted to work on!
+Since I had my first contact with cyber security, during a MSc course called *Criptography and Communications Security*, I knew this was the field I wanted to work on.
 
-Wanting to learn more I focused my dissertation in the field: I developed BIA (**B**usiness **I**mpact **A**ssessment), a solution that aids system defenders in analyzing the impact of cyber-threats, directly onto business-processes.
+Wanting to learn more, I developed BIA (**B**usiness **I**mpact **A**ssessment) during my dissertation, as a researcher fellow at [INOV](https://www.inov.pt/)'s cyber security department.
+BIA allows to simulate how a cyber-threat can impact the goal of an organization (i.e. business) to reduce system defenders workload and provide a higher-level of situational awareness.
 
-This was done as a researcher fellow at [INOV](https://www.inov.pt/)'s cyber security department. After finishing my MSc, I stayed on as a cyber security engineer, primarily working on a new solution to scanless monitor vulnerabilities.
+After finishing my MSc, I stayed on as a cyber security engineer, primarily working on a new solution to scanless monitor vulnerabilities.
 
 I’m also a part of the Mentorship program of [Portuguese Women in Tech](https://www.portuguesewomenintech.com/), where I met amazing women in tech that inspired me to go for what I want.
 One direct result was moving the idea for this website from "coming soon" to "welcome to my page!". 🙌

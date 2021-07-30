@@ -11,11 +11,7 @@ Here you can see my ongoing journey in security as a:
 * [Engineer](#-engineer)
 * [Student](#-student)
 
-You can see my complete professional experience on <a href="{{ site.linkedin }}">LinkedIn</a>.  
-
 ## 💼 Professional
-
-- **Aug 2021 – Present:**  Cyber Security Engineer at *AISI*
 
 - **Feb 2019 – Aug 2021:** Cyber Security Engineer at *INOV INESC Inovação*
 
@@ -26,7 +22,7 @@ You can see my complete professional experience on <a href="{{ site.linkedin }}"
 
 - **Jul 2014 – Sep 2014:** IT Intern at *Hospital Espírito Santo de Évora*
 
-
+You can see my complete professional experience on <a href="{{ site.linkedin }}">LinkedIn</a>.  
 
 ## 💻 Lifelong Learner
 
@@ -34,23 +30,23 @@ You can see my complete professional experience on <a href="{{ site.linkedin }}"
 * Mentorship program at Portuguese Women in Tech
 
 #### 🚩 Capture-The-Flag exercises (CTFs)
-* Hackthisite
-* Bandit, by *overthewire*
 * Natas, by *overthewire*
+* Bandit, by *overthewire*
+* Hackthisite
 
 #### 🎫 Online Courses
-* Java, by *Codeacademy*
-* Python3, by *Codeacademy*
 * Introduction to Networking, by *NYUx*
+* Python3, by *Codeacademy*
+* Java, by *Codeacademy*
 
 #### 🎬 Webinars
-* Agile, by *NOS*
-* UX UI Design, by *Noesis*
 * Cyber Threat Intelligence & Forensics Analysis, by *Hardsecure, Segurança em Sistemas de Informação*
+* UX UI Design, by *Noesis*
+* Agile, by *NOS*
 
 #### 🎤 Conferences
-* C-DAYS 2020 – Abraçar o Futuro, by *CNCS*
 * C-DAYS 2021 – Naturalizar Competências, by *CNCS*
+* C-DAYS 2020 – Abraçar o Futuro, by *CNCS*
 
 #### 📜 Certifications
 * ISO/IEC 27001 Information Security Associate, by *Skillfront*
@@ -74,6 +70,6 @@ You can read about **BIA** in the *Impact Propagation in Airport Systems* articl
 
 ## 🎓 Student
 
-  * MSc in Electrical and Computer Engineering at *Instituto Superior Técnico*
+  * MSc in Electrotechnical and Computer Engineering at *Instituto Superior Técnico*
     * MSc in Electrical Engineering and Informatics at *Technical University of Košice* (Erasmus)
-  * BSc in Electrical and Computer Engineering at *Instituto Superior Técnico*
+  * BSc in Electrotechnical and Computer Engineering at *Instituto Superior Técnico*
