@@ -13,6 +13,8 @@ Here you can see my ongoing journey in security as a:
 
 ## 💼 Professional
 
+- **Aug 2021 – Present:** Cyber Security Engineer (SOC) at *AISI*
+
 - **Feb 2019 – Aug 2021:** Cyber Security Engineer at *INOV INESC Inovação*
 
   * **Sep 2020 – Aug 2021:** R&D Cyber Security Engineer

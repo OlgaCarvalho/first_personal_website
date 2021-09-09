@@ -7,11 +7,11 @@ This was the first mentorship program I was a part of. Today is the last day of 
 
 I already followed [Portuguese Women in Tech](https://www.portuguesewomenintech.com/) in social media, and it was there that I found out they were accepting candidates for the second round of their mentorship program.
 
-At the time I was reading *Mastery* by Robert Greene, where he talks about the importance of mentor-protégé relationships, so the program immediately picked my interest. Additionally, until then, I haven't met any other women in tech (least in cyber security), and it felt I was missing an important part of my professional growth, where you find other professionals you not only look up to, but you can also identify with.
+At the time I was reading *Mastery* by Robert Greene, where he talks about the importance of mentor-protégé relationships, so the program immediately picked my interest. Additionally, until then, I haven't met any other women in tech (least in cyber security), and it felt I was missing an important part of my professional growth.
 
 Yet, in truth, I didn't think I "qualified" for being a mentee (boy, was I wrong 😅). I thought this program was directed to young students, and I had already finished my MSc a couple months before and was already working.
 
-So, I scheduled a notification in my calendar with the applications deadline (February 24th 2021, it's still there 📅) and everyday I looked at it trying to convince myself I should apply anyway.
+So, I scheduled a notification on my calendar with the applications deadline (February 24th 2021, it's still there 📅) and everyday I looked at it trying to convince myself I should apply anyway.
 Four days before the deadline I thought that I would be very angry at myself if I didn't at least try (sometimes future anger is a good motivator!).
 
 I wrote an honest application and a few days later I was told I was accepted in the program. 🙌
@@ -50,6 +50,6 @@ Looking back I am happy to say all my initial goals (and more) were achieved:
 * In addition, seeing amazing women being and doing awesome things gave me the push to finally creating this website, *step-by-step*.
 
 
-At the end, I am glad of everything I learned, and more convinced than ever that you are never *too old* to be a mentee, or *too young* to share your thoughts and experiences.
+At the end, I am glad of everything I learned, and more convinced than ever that you are never *too old* to be a mentee, or *too young* to share your thoughts and experiences. Still, this isn't the end. We have a circle space and WhatsApp groups where we are able to keep in touch with everyone on PWIT.
 
 All is left to say is a big thank you to my mentor and all PWIT team for this incredible initiative.

@@ -368,6 +368,6 @@ At this point you can go in two different directions:
 2. You would like to learn more about frontend and fully customize your website.
 * Start by installing Jekyll and an IDE on your computer. I use [Atom](https://atom.io/) that has great plugins for Jekyll and GitHub/Git.
 This way you can change and try out things locally before committing them to your website.
-* Create `_includes` to organize your markup snippets. Then you can reuse them by injected them into your `_layouts` pages.
+* Create `_includes` to organize your markup snippets. Then you can reuse them by injecting them into your `_layouts` pages.
 * Add Google Analytics to your website so you can see stats on the visitors to your website. Here's an [example](https://desiredpersona.com/google-analytics-jekyll/).
 * Create a [custom 404 page](https://jekyllrb.com/tutorials/custom-404-page/).

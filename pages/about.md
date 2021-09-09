@@ -15,7 +15,7 @@ BIA allows to simulate how a cyber-threat can impact the goal of an organization
 
 After finishing my MSc, I stayed on as a cyber security engineer, primarily working on a new solution to scanless monitor vulnerabilities.
 
-I’m also a part of the Mentorship program of [Portuguese Women in Tech](https://www.portuguesewomenintech.com/), where I met amazing women in tech that inspired me to go for what I want.
+I’m also a part of the Mentorship program #2 by [Portuguese Women in Tech](https://www.portuguesewomenintech.com/), where I met amazing women in tech that inspired me to go for what I want.
 One direct result was moving the idea for this website from "coming soon" to "welcome to my page!". 🙌
 
 Here, I hope to document my journey in the security field.
