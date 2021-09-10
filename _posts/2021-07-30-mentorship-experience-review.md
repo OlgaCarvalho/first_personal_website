@@ -52,4 +52,4 @@ Looking back I am happy to say all my initial goals (and more) were achieved:
 
 At the end, I am glad of everything I learned, and more convinced than ever that you are never *too old* to be a mentee, or *too young* to share your thoughts and experiences. Still, this isn't the end. We have a circle space and WhatsApp groups where we are able to keep in touch with everyone on PWIT.
 
-All is left to say is a big thank you to my mentor and all PWIT team for this incredible initiative.
+All is left to say is a big thank you to my mentor and all PWIT team for this incredible initiative!
