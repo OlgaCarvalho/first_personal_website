@@ -10,10 +10,9 @@ My name is <a href="{{ site.linkedin }}">Olga</a> and I am a **Cyber Security En
 
 Since I had my first contact with cyber security, during a MSc course called *Criptography and Communications Security*, I knew this was the field I wanted to work on.
 
-Wanting to learn more, I developed BIA (**B**usiness **I**mpact **A**ssessment) during my dissertation, as a researcher fellow at [INOV](https://www.inov.pt/)'s cyber security department.
-BIA allows to simulate how a cyber-threat can impact the goal of an organization (i.e. business) to reduce system defenders workload and provide a higher-level of situational awareness.
+Wanting to learn more, during my dissertation I developed a solution - **B**usiness **I**mpact **A**ssessment (BIA) - to aid systems defenders analyze the impact a cyber-incident can have on an organization. BIA accomplishes this by simulating the impact of cyber-threats directly onto business-processes, providing a higher-level of situational awareness to responders.
 
-After finishing my MSc, I stayed on as a cyber security engineer, primarily working on a new solution to scanless monitor vulnerabilities.
+After finishing my MSc, I stayed on as a cyber security engineer, primarily working on a new solution to scanless monitor vulnerabilities. Now, I am working in a SOC, exactly as the system defender/responder BIA was created to help.
 
 I’m also a part of the Mentorship program #2 by [Portuguese Women in Tech](https://www.portuguesewomenintech.com/), where I met amazing women in tech that inspired me to go for what I want.
 One direct result was moving the idea for this website from "coming soon" to "welcome to my page!". 🙌

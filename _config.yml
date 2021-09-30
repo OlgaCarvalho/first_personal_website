@@ -3,6 +3,7 @@ markdown: kramdown
 permalink: /posts/:year/:month/:day/:title.html
 kramdown:
   syntax_highlighter: rouge
+future: false
 
 # my contacts
 author: Olga Carvalho
