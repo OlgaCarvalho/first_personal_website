@@ -7,7 +7,7 @@ This was the first mentorship program I was a part of. Today is the last day of 
 
 I already followed [Portuguese Women in Tech](https://www.portuguesewomenintech.com/) in social media, and it was there that I found out they were accepting candidates for the second round of their mentorship program.
 
-At the time I was reading *Mastery* by Robert Greene, where he talks about the importance of mentor-protégé relationships, so the program immediately picked my interest. Additionally, until then, I haven't met any other women in tech (least in cyber security), and it felt I was missing an important part of my professional growth.
+At the time I was reading *Mastery* by Robert Greene, where he talks about the importance of mentor-protégé relationships, so the program immediately picked my interest. Additionally, until then, I haven't had met any other women in tech (least in cyber security), and it felt I was missing an important part of my professional growth.
 
 Yet, in truth, I didn't think I "qualified" for being a mentee (boy, was I wrong 😅). I thought this program was directed to young students, and I had already finished my MSc a couple months before and was already working.
 

@@ -68,4 +68,4 @@ And finally, for a cloud system I used Dropbox.
 As a final note, many universities offer a small course/workshop that you can attend. Some also publicly share good practices guidelines to keep you focused during your thesis.
 
 I'll leave you with a MVP (Minimal Viable Product) mindset that helped me keep me focused:
-"It's better to have a less rich solution you can prove (a.k.a *evaluate*) it **enriches** the state-of-the-art, than have a too-many-features solution you can't prove its worth".
+"It's better to have a solution you can prove (a.k.a *evaluate*) it **enriches** the state-of-the-art, than have a too-many-features solution you can't prove its worth".

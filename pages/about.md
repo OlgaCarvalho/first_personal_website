@@ -12,7 +12,7 @@ Since I had my first contact with cyber security, during a MSc course called *Cr
 
 Wanting to learn more, during my dissertation I developed a solution - **B**usiness **I**mpact **A**ssessment (BIA) - to aid systems defenders analyze the impact a cyber-incident can have on an organization. BIA accomplishes this by simulating the impact of cyber-threats directly onto business-processes, providing a higher-level of situational awareness to responders.
 
-After finishing my MSc, I stayed on as a cyber security engineer, primarily working on a new solution to scanless monitor vulnerabilities. Now, I am working in a SOC, exactly as the system defender/responder BIA was created to help.
+After finishing my MSc, I stayed on as a cyber security engineer, primarily to research and develop a new solution to scanless monitor vulnerabilities. Now, I am working in a SOC, exactly as the system defender/responder BIA was created to help.
 
 I’m also a part of the Mentorship program #2 by [Portuguese Women in Tech](https://www.portuguesewomenintech.com/), where I met amazing women in tech that inspired me to go for what I want.
 One direct result was moving the idea for this website from "coming soon" to "welcome to my page!". 🙌
