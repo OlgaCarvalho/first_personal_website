@@ -1,3 +1,8 @@
+---
+layout: post
+---
+# Encoding vs. Encryption vs. Hashing
+
 You might have heard about these words, Encoding, Encryption and Hashing, used interchangeably.
 
 Indeed it is a common misconception that these words refer to the same thing, when in reality they refer to their own different techniques and goals.

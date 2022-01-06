@@ -1,3 +1,8 @@
+---
+layout: post
+---
+# Concepts you need to known when starting on a SOC
+
 Recently I have started a job in a SOC (Security Operations Center) for the first time.
 
 When you start working in a new company it is normal to notice there are abbreviations the team already uses daily. If you're a junior starting a new job probably you won't know the meaning of many, even though some could be obvious, since you are not used to the abbreviation itself it's normal to feel a little lost in the first conversations with your colleagues.
@@ -35,5 +40,3 @@ Let me know if you would like me to add more to this list.
 |TOTP     | Time-based One-Time Password |
 | TTPs     | Tactics, Techniques and Procedures        |
 | WD    | Windows Defender        |
-
-

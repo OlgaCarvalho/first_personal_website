@@ -3,6 +3,7 @@ layout: default
 title: Work | Olga Carvalho
 permalink: /work/index.html
 ---
+# Work | Olga Carvalho
 
 Here you can see my ongoing journey in security as a:
 

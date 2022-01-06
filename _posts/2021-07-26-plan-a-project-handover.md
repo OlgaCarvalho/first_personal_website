@@ -3,6 +3,8 @@ layout: post
 title: "Plan a Project Hand-over"
 date: 2021-07-26
 ---
+# Plan a Project Hand-over
+
 When you leave a project you have to make sure that it is left in prepared hands.
 
 It seems simple enough: just showcase the project and its goals. However, I am sure you ran into issues and possible headaches along the way that the next team will surely also run into.
