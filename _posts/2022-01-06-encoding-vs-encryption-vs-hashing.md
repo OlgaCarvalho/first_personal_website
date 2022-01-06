@@ -180,7 +180,7 @@ openssl rsautl -encrypt -pubin -inkey alice_public.pem -in secret_message.txt -o
 If you try to read it:
 
 ```sh
-cat encrypted_secret_message.txt
+cat encrypted_secret_message.enc
 ```
 
 > `����$��SɣUW�D�
@@ -245,7 +245,7 @@ Let's say Alice wants a way to validate the file you sent her was not altered on
 
 You can compute the hash of your `secret_message.txt` and send it to her. This way Alice can also compute the hash and compare them.
 
-##### On your side
+#### On your side
 
 Compute the SHA256 digest of your `.txt` file with the following command:
 
@@ -261,7 +261,7 @@ openssl rsautl -encrypt -pubin -inkey alice_public.pem -in secret_message.sha256
 
 
 
-##### On Alice side
+#### On Alice side
 
 Alice decrypts the file and sees the hash you sent her:
 
