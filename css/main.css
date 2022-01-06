@@ -66,6 +66,16 @@ footer {
 }
 
 /**
+  * Images
+  */
+img {
+  max-width: 1200px;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+/**
  * New elements
  */
 .highlighter-rouge .highlight pre.highlight {
