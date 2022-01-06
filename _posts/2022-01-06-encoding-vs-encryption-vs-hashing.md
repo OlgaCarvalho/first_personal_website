@@ -1,7 +1,8 @@
 ---
 layout: post
+title: "Encoding vs. Encryption vs. Hashing"
+date: 2021-01-06
 ---
-# Encoding vs. Encryption vs. Hashing
 
 You might have heard about these words, Encoding, Encryption and Hashing, used interchangeably.
 

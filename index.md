@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Home | Olga Carvalho
 ---
-# Home | Olga Carvalho
 
 ### Hi there 👋 welcome to my page!
 

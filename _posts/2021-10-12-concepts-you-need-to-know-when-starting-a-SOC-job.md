@@ -1,7 +1,8 @@
 ---
 layout: post
+title: "Concepts you need to known when starting on a SOC"
+date: 2021-10-12
 ---
-# Concepts you need to known when starting on a SOC
 
 Recently I have started a job in a SOC (Security Operations Center) for the first time.
 

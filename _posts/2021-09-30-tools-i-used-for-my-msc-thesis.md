@@ -3,7 +3,6 @@ layout: post
 title: "Tools I Used For My MSc Thesis"
 date: 2021-09-30
 ---
-# Tools I Used For My MSc Thesis
 
 Today marks one year I finished my masters.
 

@@ -3,9 +3,7 @@ layout: default
 title: About | Olga Carvalho
 permalink: /about/index.html
 ---
-# About | Olga Carvalho
-
-## Olá 👋
+### Olá 👋
 
 My name is <a href="{{ site.linkedin }}">Olga</a> and I am a **Cyber Security Engineer** from Portugal.
 

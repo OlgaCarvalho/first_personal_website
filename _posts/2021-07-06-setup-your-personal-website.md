@@ -3,7 +3,6 @@ layout: post
 title: "Setup Your Personal Website on GitHub Pages"
 date: 2021-07-06
 ---
-# Setup Your Personal Website on GitHub Pages
 
 In this post I will show you how I created this personal website on GitHub Pages using Jekyll.
 

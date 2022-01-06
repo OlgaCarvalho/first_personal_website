@@ -3,7 +3,6 @@ layout: post
 title: "Mentorship Experience Review"
 date: 2021-07-30
 ---
-# Mentorship Experience Review
 
 This was the first mentorship program I was a part of. Today is the last day of the program so I decided to highlight my takeaways from the whole experience.
 

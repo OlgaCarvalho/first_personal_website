@@ -3,7 +3,6 @@ layout: post
 title: "Olga Launches GitHub page"
 date: 2021-06-24
 ---
-# Olga Launches GitHub page
 
 > Finally got around to getting this page up!
 >
