@@ -1,5 +1,3 @@
-# Encoding vs. Encryption vs. Hashing
-
 You might have heard about these words, Encoding, Encryption and Hashing, used interchangeably.
 
 Indeed it is a common misconception that these words refer to the same thing, when in reality they refer to their own different techniques and goals.
@@ -73,7 +71,7 @@ This is done by transforming readable information, *plaintext*, into unreadable 
 
 There is two main encryption techniques: symmetric (or *secret key*) and asymmetric (or *public key*).
 
-![Encryption](assets/images/Encryption.png)
+![Encryption](/assets/images/Encryption.png)
 
 In **symmetric encryption**, a single secret key (K) is used to both encrypt and decrypt the plaintext message (M).
 
