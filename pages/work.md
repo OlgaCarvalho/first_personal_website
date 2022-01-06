@@ -13,7 +13,7 @@ Here you can see my ongoing journey in security as a:
 
 ## 💼 Professional
 
-- **Aug 2021 – Present:** Cyber Security Engineer (SOC) at *AISI*
+- **Aug 2021 – Present:** Cyber Security Analyst (SOC) at *AISI*
 
 - **Feb 2019 – Aug 2021:** Cyber Security Engineer at *INOV INESC Inovação*
 
@@ -67,7 +67,11 @@ Established security mechanisms, such as antivirus software, log analyzers and i
 To help determine whether a cyber-incident has any current or future negative impact on the organization’s monitored network and goals, research in mission impact assessment tries to estimate that impact.
 In this context, **BIA (Business Impact Assessment)** was created as a simulation platform, where one is able to simulate business-process impact by a cyber-threat landscape affecting organizational assets.
 
-You can read about **BIA** in the *Impact Propagation in Airport Systems* article published at Cyber-Physical Security for Critical Infrastructures Protection (CPS4CIP) conference.
+#### Publications
+* CIIA: Critical Infrastructure Impact Assessment @ Symposium on Applied Computing (SAP) – 2022
+* Impact Propagation in Airport Systems @ Cyber-Physical Security for Critical Infrastructures Protection (CPS4CIP) – 2020
+
+
 
 
 
